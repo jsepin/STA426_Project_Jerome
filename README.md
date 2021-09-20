@@ -5,6 +5,9 @@ This is the link to the markdown cheat sheet:
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+This is the link to the website (only the R file)
+https://jsepin.github.io/STA426_Project_Jerome/
+
 ## Images:
 Simply drag and drop the image into *Issues* and copy the link that it produces into the README file.
 ```
